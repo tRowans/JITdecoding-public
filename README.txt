@@ -4,7 +4,8 @@ The error-correcting codes referred to as A,B and C in that paper are referred t
 
 To build the code:
 
-- `cd path/to/JITdecoding-public/build`
+- `mkdir /path/to/JITdecoding-public/build`
+- `cd /path/to/JITdecoding-public/build`
 - `cmake ..`
 - `cmake --build .`
 
